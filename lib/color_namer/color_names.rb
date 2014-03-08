@@ -277,7 +277,7 @@ class ColorNamer::ColorNames
       ["F8EADF", "Chardon", "Orange"],
       ["FFC878", "Chardonnay", "Yellow"],
       ["A4DCE6", "Charlotte", "Blue"],
-      ["D0748B", "Charm", "Red"],
+      ["D0748B", "Charm", "Pink"],
       ["7FFF00", "Chartreuse", "Green"],
       ["DFFF00", "Chartreuse Yellow", "Yellow"],
       ["419F59", "Chateau Green", "Green"],
